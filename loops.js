@@ -9,8 +9,6 @@ function forLoop(array) {
   return array
 }
 
-/*
-
 
 function whileLoop(num) {
   let countdown = num;
@@ -29,5 +27,3 @@ function doWhileLoop(array) {
     array.pop();
   } while (array.length > 0 && maybeTrue());
 }
-
-*/
